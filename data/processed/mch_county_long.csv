@@ -1,0 +1,283 @@
+county,indicator,value
+Mombasa,skilled_birth_attendance_pct,78
+Kwale,skilled_birth_attendance_pct,91
+Kilifi,skilled_birth_attendance_pct,68
+Lamu,skilled_birth_attendance_pct,54
+Tana River,skilled_birth_attendance_pct,82
+Taita Taveta,skilled_birth_attendance_pct,47
+Garissa,skilled_birth_attendance_pct,60
+Wajir,skilled_birth_attendance_pct,78
+Mandera,skilled_birth_attendance_pct,58
+Marsabit,skilled_birth_attendance_pct,62
+Isiolo,skilled_birth_attendance_pct,50
+Meru,skilled_birth_attendance_pct,50
+Tharaka Nithi,skilled_birth_attendance_pct,63
+Embu,skilled_birth_attendance_pct,92
+Kitui,skilled_birth_attendance_pct,75
+Machakos,skilled_birth_attendance_pct,79
+Makueni,skilled_birth_attendance_pct,63
+Nyandarua,skilled_birth_attendance_pct,42
+Nyeri,skilled_birth_attendance_pct,61
+Kirinyaga,skilled_birth_attendance_pct,92
+Muranga,skilled_birth_attendance_pct,41
+Kiambu,skilled_birth_attendance_pct,63
+Turkana,skilled_birth_attendance_pct,83
+West Pokot,skilled_birth_attendance_pct,69
+Samburu,skilled_birth_attendance_pct,77
+Trans Nzoia,skilled_birth_attendance_pct,41
+Uasin Gishu,skilled_birth_attendance_pct,60
+Elgeyo Marakwet,skilled_birth_attendance_pct,72
+Nandi,skilled_birth_attendance_pct,51
+Baringo,skilled_birth_attendance_pct,61
+Laikipia,skilled_birth_attendance_pct,83
+Nakuru,skilled_birth_attendance_pct,64
+Narok,skilled_birth_attendance_pct,88
+Kajiado,skilled_birth_attendance_pct,66
+Kericho,skilled_birth_attendance_pct,81
+Bomet,skilled_birth_attendance_pct,67
+Kakamega,skilled_birth_attendance_pct,55
+Vihiga,skilled_birth_attendance_pct,54
+Bungoma,skilled_birth_attendance_pct,86
+Busia,skilled_birth_attendance_pct,90
+Siaya,skilled_birth_attendance_pct,83
+Kisumu,skilled_birth_attendance_pct,94
+Homabay,skilled_birth_attendance_pct,91
+Migori,skilled_birth_attendance_pct,42
+Kisii,skilled_birth_attendance_pct,76
+Nyamira,skilled_birth_attendance_pct,90
+Nairobi,skilled_birth_attendance_pct,46
+Mombasa,antenatal_4_visits_pct,55
+Kwale,antenatal_4_visits_pct,43
+Kilifi,antenatal_4_visits_pct,73
+Lamu,antenatal_4_visits_pct,52
+Tana River,antenatal_4_visits_pct,38
+Taita Taveta,antenatal_4_visits_pct,59
+Garissa,antenatal_4_visits_pct,48
+Wajir,antenatal_4_visits_pct,84
+Mandera,antenatal_4_visits_pct,43
+Marsabit,antenatal_4_visits_pct,60
+Isiolo,antenatal_4_visits_pct,87
+Meru,antenatal_4_visits_pct,36
+Tharaka Nithi,antenatal_4_visits_pct,54
+Embu,antenatal_4_visits_pct,62
+Kitui,antenatal_4_visits_pct,81
+Machakos,antenatal_4_visits_pct,41
+Makueni,antenatal_4_visits_pct,78
+Nyandarua,antenatal_4_visits_pct,42
+Nyeri,antenatal_4_visits_pct,81
+Kirinyaga,antenatal_4_visits_pct,69
+Muranga,antenatal_4_visits_pct,48
+Kiambu,antenatal_4_visits_pct,51
+Turkana,antenatal_4_visits_pct,70
+West Pokot,antenatal_4_visits_pct,84
+Samburu,antenatal_4_visits_pct,74
+Trans Nzoia,antenatal_4_visits_pct,38
+Uasin Gishu,antenatal_4_visits_pct,36
+Elgeyo Marakwet,antenatal_4_visits_pct,40
+Nandi,antenatal_4_visits_pct,88
+Baringo,antenatal_4_visits_pct,76
+Laikipia,antenatal_4_visits_pct,38
+Nakuru,antenatal_4_visits_pct,88
+Narok,antenatal_4_visits_pct,63
+Kajiado,antenatal_4_visits_pct,52
+Kericho,antenatal_4_visits_pct,60
+Bomet,antenatal_4_visits_pct,78
+Kakamega,antenatal_4_visits_pct,68
+Vihiga,antenatal_4_visits_pct,44
+Bungoma,antenatal_4_visits_pct,70
+Busia,antenatal_4_visits_pct,48
+Siaya,antenatal_4_visits_pct,65
+Kisumu,antenatal_4_visits_pct,82
+Homabay,antenatal_4_visits_pct,49
+Migori,antenatal_4_visits_pct,42
+Kisii,antenatal_4_visits_pct,48
+Nyamira,antenatal_4_visits_pct,57
+Nairobi,antenatal_4_visits_pct,74
+Mombasa,facility_delivery_pct,65
+Kwale,facility_delivery_pct,60
+Kilifi,facility_delivery_pct,89
+Lamu,facility_delivery_pct,62
+Tana River,facility_delivery_pct,91
+Taita Taveta,facility_delivery_pct,68
+Garissa,facility_delivery_pct,70
+Wajir,facility_delivery_pct,69
+Mandera,facility_delivery_pct,89
+Marsabit,facility_delivery_pct,85
+Isiolo,facility_delivery_pct,73
+Meru,facility_delivery_pct,59
+Tharaka Nithi,facility_delivery_pct,89
+Embu,facility_delivery_pct,45
+Kitui,facility_delivery_pct,69
+Machakos,facility_delivery_pct,51
+Makueni,facility_delivery_pct,53
+Nyandarua,facility_delivery_pct,68
+Nyeri,facility_delivery_pct,45
+Kirinyaga,facility_delivery_pct,88
+Muranga,facility_delivery_pct,52
+Kiambu,facility_delivery_pct,68
+Turkana,facility_delivery_pct,55
+West Pokot,facility_delivery_pct,61
+Samburu,facility_delivery_pct,52
+Trans Nzoia,facility_delivery_pct,79
+Uasin Gishu,facility_delivery_pct,79
+Elgeyo Marakwet,facility_delivery_pct,77
+Nandi,facility_delivery_pct,49
+Baringo,facility_delivery_pct,86
+Laikipia,facility_delivery_pct,83
+Nakuru,facility_delivery_pct,85
+Narok,facility_delivery_pct,72
+Kajiado,facility_delivery_pct,51
+Kericho,facility_delivery_pct,53
+Bomet,facility_delivery_pct,52
+Kakamega,facility_delivery_pct,56
+Vihiga,facility_delivery_pct,78
+Bungoma,facility_delivery_pct,77
+Busia,facility_delivery_pct,92
+Siaya,facility_delivery_pct,67
+Kisumu,facility_delivery_pct,68
+Homabay,facility_delivery_pct,81
+Migori,facility_delivery_pct,79
+Kisii,facility_delivery_pct,88
+Nyamira,facility_delivery_pct,84
+Nairobi,facility_delivery_pct,66
+Mombasa,postnatal_care_48_hours,56
+Kwale,postnatal_care_48_hours,64
+Kilifi,postnatal_care_48_hours,30
+Lamu,postnatal_care_48_hours,64
+Tana River,postnatal_care_48_hours,66
+Taita Taveta,postnatal_care_48_hours,76
+Garissa,postnatal_care_48_hours,43
+Wajir,postnatal_care_48_hours,32
+Mandera,postnatal_care_48_hours,30
+Marsabit,postnatal_care_48_hours,34
+Isiolo,postnatal_care_48_hours,55
+Meru,postnatal_care_48_hours,84
+Tharaka Nithi,postnatal_care_48_hours,43
+Embu,postnatal_care_48_hours,68
+Kitui,postnatal_care_48_hours,56
+Machakos,postnatal_care_48_hours,38
+Makueni,postnatal_care_48_hours,44
+Nyandarua,postnatal_care_48_hours,44
+Nyeri,postnatal_care_48_hours,55
+Kirinyaga,postnatal_care_48_hours,71
+Muranga,postnatal_care_48_hours,42
+Kiambu,postnatal_care_48_hours,80
+Turkana,postnatal_care_48_hours,61
+West Pokot,postnatal_care_48_hours,68
+Samburu,postnatal_care_48_hours,78
+Trans Nzoia,postnatal_care_48_hours,81
+Uasin Gishu,postnatal_care_48_hours,61
+Elgeyo Marakwet,postnatal_care_48_hours,33
+Nandi,postnatal_care_48_hours,59
+Baringo,postnatal_care_48_hours,66
+Laikipia,postnatal_care_48_hours,52
+Nakuru,postnatal_care_48_hours,68
+Narok,postnatal_care_48_hours,74
+Kajiado,postnatal_care_48_hours,44
+Kericho,postnatal_care_48_hours,72
+Bomet,postnatal_care_48_hours,58
+Kakamega,postnatal_care_48_hours,65
+Vihiga,postnatal_care_48_hours,42
+Bungoma,postnatal_care_48_hours,61
+Busia,postnatal_care_48_hours,36
+Siaya,postnatal_care_48_hours,80
+Kisumu,postnatal_care_48_hours,51
+Homabay,postnatal_care_48_hours,57
+Migori,postnatal_care_48_hours,31
+Kisii,postnatal_care_48_hours,71
+Nyamira,postnatal_care_48_hours,74
+Nairobi,postnatal_care_48_hours,82
+Mombasa,under_5_mortality_rate,25
+Kwale,under_5_mortality_rate,47
+Kilifi,under_5_mortality_rate,47
+Lamu,under_5_mortality_rate,63
+Tana River,under_5_mortality_rate,49
+Taita Taveta,under_5_mortality_rate,81
+Garissa,under_5_mortality_rate,81
+Wajir,under_5_mortality_rate,20
+Mandera,under_5_mortality_rate,46
+Marsabit,under_5_mortality_rate,81
+Isiolo,under_5_mortality_rate,22
+Meru,under_5_mortality_rate,89
+Tharaka Nithi,under_5_mortality_rate,46
+Embu,under_5_mortality_rate,28
+Kitui,under_5_mortality_rate,81
+Machakos,under_5_mortality_rate,56
+Makueni,under_5_mortality_rate,70
+Nyandarua,under_5_mortality_rate,63
+Nyeri,under_5_mortality_rate,43
+Kirinyaga,under_5_mortality_rate,78
+Muranga,under_5_mortality_rate,51
+Kiambu,under_5_mortality_rate,71
+Turkana,under_5_mortality_rate,81
+West Pokot,under_5_mortality_rate,77
+Samburu,under_5_mortality_rate,71
+Trans Nzoia,under_5_mortality_rate,31
+Uasin Gishu,under_5_mortality_rate,58
+Elgeyo Marakwet,under_5_mortality_rate,21
+Nandi,under_5_mortality_rate,22
+Baringo,under_5_mortality_rate,75
+Laikipia,under_5_mortality_rate,78
+Nakuru,under_5_mortality_rate,21
+Narok,under_5_mortality_rate,21
+Kajiado,under_5_mortality_rate,73
+Kericho,under_5_mortality_rate,20
+Bomet,under_5_mortality_rate,38
+Kakamega,under_5_mortality_rate,21
+Vihiga,under_5_mortality_rate,72
+Bungoma,under_5_mortality_rate,63
+Busia,under_5_mortality_rate,51
+Siaya,under_5_mortality_rate,89
+Kisumu,under_5_mortality_rate,51
+Homabay,under_5_mortality_rate,87
+Migori,under_5_mortality_rate,74
+Kisii,under_5_mortality_rate,75
+Nyamira,under_5_mortality_rate,36
+Nairobi,under_5_mortality_rate,57
+Mombasa,maternal_mortality_ratio,479
+Kwale,maternal_mortality_ratio,397
+Kilifi,maternal_mortality_ratio,710
+Lamu,maternal_mortality_ratio,343
+Tana River,maternal_mortality_ratio,400
+Taita Taveta,maternal_mortality_ratio,323
+Garissa,maternal_mortality_ratio,386
+Wajir,maternal_mortality_ratio,525
+Mandera,maternal_mortality_ratio,663
+Marsabit,maternal_mortality_ratio,548
+Isiolo,maternal_mortality_ratio,602
+Meru,maternal_mortality_ratio,545
+Tharaka Nithi,maternal_mortality_ratio,710
+Embu,maternal_mortality_ratio,346
+Kitui,maternal_mortality_ratio,347
+Machakos,maternal_mortality_ratio,688
+Makueni,maternal_mortality_ratio,750
+Nyandarua,maternal_mortality_ratio,537
+Nyeri,maternal_mortality_ratio,672
+Kirinyaga,maternal_mortality_ratio,350
+Muranga,maternal_mortality_ratio,614
+Kiambu,maternal_mortality_ratio,497
+Turkana,maternal_mortality_ratio,462
+West Pokot,maternal_mortality_ratio,343
+Samburu,maternal_mortality_ratio,545
+Trans Nzoia,maternal_mortality_ratio,771
+Uasin Gishu,maternal_mortality_ratio,201
+Elgeyo Marakwet,maternal_mortality_ratio,503
+Nandi,maternal_mortality_ratio,453
+Baringo,maternal_mortality_ratio,652
+Laikipia,maternal_mortality_ratio,236
+Nakuru,maternal_mortality_ratio,359
+Narok,maternal_mortality_ratio,208
+Kajiado,maternal_mortality_ratio,432
+Kericho,maternal_mortality_ratio,298
+Bomet,maternal_mortality_ratio,407
+Kakamega,maternal_mortality_ratio,330
+Vihiga,maternal_mortality_ratio,603
+Bungoma,maternal_mortality_ratio,351
+Busia,maternal_mortality_ratio,253
+Siaya,maternal_mortality_ratio,319
+Kisumu,maternal_mortality_ratio,786
+Homabay,maternal_mortality_ratio,619
+Migori,maternal_mortality_ratio,621
+Kisii,maternal_mortality_ratio,303
+Nyamira,maternal_mortality_ratio,453
+Nairobi,maternal_mortality_ratio,426

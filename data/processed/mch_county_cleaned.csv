@@ -1,0 +1,48 @@
+county,skilled_birth_attendance_pct,antenatal_4_visits_pct,facility_delivery_pct,postnatal_care_48_hours,under_5_mortality_rate,maternal_mortality_ratio,maternal_risk_level,under5_risk_level
+Mombasa,78,55,65,56,25,479,Medium,Low
+Kwale,91,43,60,64,47,397,Medium,Medium
+Kilifi,68,73,89,30,47,710,High,Medium
+Lamu,54,52,62,64,63,343,Medium,Medium
+Tana River,82,38,91,66,49,400,Medium,Medium
+Taita Taveta,47,59,68,76,81,323,Medium,High
+Garissa,60,48,70,43,81,386,Medium,High
+Wajir,78,84,69,32,20,525,High,Low
+Mandera,58,43,89,30,46,663,High,Medium
+Marsabit,62,60,85,34,81,548,High,High
+Isiolo,50,87,73,55,22,602,High,Low
+Meru,50,36,59,84,89,545,High,High
+Tharaka Nithi,63,54,89,43,46,710,High,Medium
+Embu,92,62,45,68,28,346,Medium,Low
+Kitui,75,81,69,56,81,347,Medium,High
+Machakos,79,41,51,38,56,688,High,Medium
+Makueni,63,78,53,44,70,750,High,Medium
+Nyandarua,42,42,68,44,63,537,High,Medium
+Nyeri,61,81,45,55,43,672,High,Medium
+Kirinyaga,92,69,88,71,78,350,Medium,High
+Muranga,41,48,52,42,51,614,High,Medium
+Kiambu,63,51,68,80,71,497,Medium,High
+Turkana,83,70,55,61,81,462,Medium,High
+West Pokot,69,84,61,68,77,343,Medium,High
+Samburu,77,74,52,78,71,545,High,High
+Trans Nzoia,41,38,79,81,31,771,High,Low
+Uasin Gishu,60,36,79,61,58,201,Low,Medium
+Elgeyo Marakwet,72,40,77,33,21,503,High,Low
+Nandi,51,88,49,59,22,453,Medium,Low
+Baringo,61,76,86,66,75,652,High,High
+Laikipia,83,38,83,52,78,236,Low,High
+Nakuru,64,88,85,68,21,359,Medium,Low
+Narok,88,63,72,74,21,208,Low,Low
+Kajiado,66,52,51,44,73,432,Medium,High
+Kericho,81,60,53,72,20,298,Low,Low
+Bomet,67,78,52,58,38,407,Medium,Low
+Kakamega,55,68,56,65,21,330,Medium,Low
+Vihiga,54,44,78,42,72,603,High,High
+Bungoma,86,70,77,61,63,351,Medium,Medium
+Busia,90,48,92,36,51,253,Low,Medium
+Siaya,83,65,67,80,89,319,Medium,High
+Kisumu,94,82,68,51,51,786,High,Medium
+Homabay,91,49,81,57,87,619,High,High
+Migori,42,42,79,31,74,621,High,High
+Kisii,76,48,88,71,75,303,Medium,High
+Nyamira,90,57,84,74,36,453,Medium,Low
+Nairobi,46,74,66,82,57,426,Medium,Medium
