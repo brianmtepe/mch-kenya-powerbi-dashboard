@@ -2,7 +2,7 @@
 
 ## Dashboard preview
 
-![MCH County Dashboard](images/MCH%20COUNTY%20DASHBOARD.png)
+![MCH County Dashboard](images/mch-county-dashboard.png)
 
 ## Project Overview
 This project presents a county-level analytical dashboard examining Maternal and Child Health (MCH) indicators across Kenya, with a primary focus on Under-5 Mortality Rates, risk distribution, and regional disparities.
