@@ -5,7 +5,7 @@
 This project presents a multi-page analytical dashboard examining Maternal and Child Health (MCH)indicators across Kenya's 47 counties. Developed from the perspective of a Registered Nurse(KRCHN), it transforms raw health data into a strategic 'Triage Tool' to identify mortality drivers and service delivery gaps.
 
 # Dashboard Preview
-![MCH National Overview](images/Page1_National_MCH_Triage.jpeg)
+![MCH National Overview](Images/Page1_National_MCH_Triage.jpeg)
 
 # The Clinical Challenge
 While facility delivery rates average 69.74%, the national Maternal Mortality Ratio remains a challenge at 475.87. This dashboard investigates the 'Continuum of Care' by identifying that postnatal Care (48hrs) is a critical systems leak, averaging only 57.45% coverage
