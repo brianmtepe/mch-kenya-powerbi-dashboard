@@ -10,19 +10,45 @@ The dashboard transforms raw clinical datasets into executive-level insights for
 
 # Executive Summary
 
-![Executive Summary](images/mch_executive_summary.png)
+![Executive Summary](Images/MCH_Executive_Dashboard_Summary.png)
 
 ---
 
-# Dashboard Overview
+# National MCH Triage Dashboard
 
-![Dashboard Overview](images/mch_dashboard_overview.png)
+![National MCH Triage](Images/Page1_National_MCH_Triage.png)
+
+---
+
+# Risk Segmentation Analysis
+
+![Risk Segmentation](Images/Page2_Risk_Segmentation_Analysis.png)
+
+---
+
+# Postnatal Care Gap Diagnostic
+
+![Postnatal Care Gap](Images/Page3_Postnatal_Care_Gap_Diagnostic.png)
 
 ---
 
 # County Heatmap Analysis
 
-![County Heatmap](images/mch_heatmap_analysis.png)
+## Maternal Mortality Heatmap
+
+![Maternal Mortality Heatmap](Images/county_maternal_mortality_heatmap.png)
+
+---
+
+## Service Coverage Heatmap
+
+![Service Coverage Heatmap](Images/county_maternal_service_coverage_heatmap.png)
+
+---
+
+## Under-5 Mortality Heatmap
+
+![Under-5 Mortality Heatmap](Images/county_under_5_mortality_heatmap.png)
 
 ---
 
@@ -82,7 +108,7 @@ mch-kenya-powerbi-dashboard/
 │
 ├── dashboard/
 ├── data/
-├── images/
+├── Images/
 ├── reports/
 ├── sql/
 ├── notebooks/
@@ -91,28 +117,7 @@ mch-kenya-powerbi-dashboard/
 
 ---
 
-# Dashboard Report
-
-Download the PDF report below:
-
-[MCH Dashboard Report](reports/MCH_Dashboard_Report.pdf)
-
----
-
 # Author
 
 ## Brian Mtepe
 KRCHN Registered Nurse | Health Data Analyst
-
-Specializations:
-- Healthcare Analytics
-- Power BI Dashboards
-- SQL Reporting
-- Clinical KPI Monitoring
-- Public Health Informatics
-
----
-
-# Project Status
-
-Completed and deployed as a professional healthcare analytics portfolio project.
