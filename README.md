@@ -16,13 +16,13 @@ The dashboard transforms raw clinical datasets into executive-level insights for
 
 # National MCH Triage Dashboard
 
-![National MCH Triage](Images/Page1_National_MCH_Triage.png)
+![National MCH Triage](Images/Page1_National_MCH_Triage.JPENG)
 
 ---
 
 # Risk Segmentation Analysis
 
-![Risk Segmentation](Images/Page2_Risk_Segmentation_Analysis.png)
+![Risk Segmentation](Images/Page2_Risk_Segmentation_Analysis.JPENG)
 
 ---
 
