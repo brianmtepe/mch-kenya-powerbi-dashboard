@@ -28,27 +28,7 @@ The dashboard transforms raw clinical datasets into executive-level insights for
 
 # Postnatal Care Gap Diagnostic
 
-![Postnatal Care Gap](Images/Page3_Postnatal_Care_Gap_Diagnostic.png)
-
----
-
-# County Heatmap Analysis
-
-## Maternal Mortality Heatmap
-
-![Maternal Mortality Heatmap](Images/county_maternal_mortality_heatmap.png)
-
----
-
-## Service Coverage Heatmap
-
-![Service Coverage Heatmap](Images/county_maternal_service_coverage_heatmap.png)
-
----
-
-## Under-5 Mortality Heatmap
-
-![Under-5 Mortality Heatmap](Images/county_under_5_mortality_heatmap.png)
+![Postnatal Care Gap](Images/Page3_Postnatal_Care_Gap_Diagnostic.png
 
 ---
 
