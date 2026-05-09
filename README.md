@@ -67,9 +67,3 @@ The dashboard transforms raw clinical datasets into executive-level insights for
 # Author
 ## **Brian Mtepe**
 **KRCHN Registered Nurse | Health Data Analyst**
-
-**Specializations:**
-* Healthcare Analytics & Clinical Informatics
-* Power BI Dashboards for M&E
-* SQL Reporting & Public Health KPI Monitoring
-*
