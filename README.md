@@ -135,22 +135,6 @@ The workflow included:
 
 ---
 
-# Repository Structure
-
-```text
-mch-kenya-powerbi-dashboard/
-│
-├── dashboard/
-├── data/
-├── documentation/
-├── Images/
-├── notebooks/
-├── reports/
-└── README.md
-```
-
----
-
 # Intended Users
 
 - Public Health Officers
