@@ -60,23 +60,18 @@ The workflow included:
 The project follows a structured healthcare analytics workflow:
 
 Raw County Health Data
-
 ↓
 
 SQL Data Modeling
-
 ↓
 
 Healthcare KPI Views
-
 ↓
 
 Risk Segmentation Logic
-
 ↓
 
 Power BI Dashboards
-
 ↓
 
 Healthcare Decision Support
