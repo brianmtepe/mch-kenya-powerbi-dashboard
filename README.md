@@ -58,7 +58,7 @@ The workflow included:
 # Analytics Pipeline Architecture
 
 The project follows a structured healthcare analytics workflow:
-
+↓
 Raw County Health Data
 
 ↓
@@ -73,7 +73,6 @@ Risk Segmentation Logic
 ↓
 Power BI Dashboards
 
-↓
 Healthcare Decision Support
 
 This architecture improves consistency, simplifies reporting, and supports rapid identification of priority intervention areas.
