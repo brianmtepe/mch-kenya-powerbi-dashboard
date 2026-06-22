@@ -12,7 +12,7 @@ The solution transforms county-level healthcare data into reporting-ready insigh
 
 End-to-end healthcare analytics workflow supporting Maternal & Child Health performance monitoring and decision support.
 
-[MCH Analytics Pipeline](Images/MCH_SQL_Analytics_Pipeline.png)
+![MCH Analytics Pipeline](Images/MCH_SQL_Analytics_Pipeline.png)
 
 This project transforms county-level Maternal & Child Health (MCH) data into a structured healthcare analytics workflow designed to support monitoring, risk identification, and evidence-based decision-making.
 
@@ -91,7 +91,7 @@ This architecture improves consistency, simplifies reporting, and supports rapid
 
 Healthcare KPI view creation, risk segmentation logic, and reporting-ready SQL transformation workflow.
 
-[SQL Architecture](Images/MCH_SQL_Architecture.png)
+![SQL Architecture](Images/MCH_SQL_Architecture.png)
 
 ---
 
@@ -99,7 +99,7 @@ Healthcare KPI view creation, risk segmentation logic, and reporting-ready SQL t
 
 Translation of county-level healthcare indicators into actionable public health insights.
 
-[Decision Support Framework](Images/MCH_Decision_Support_Framework.png)
+![Decision Support Framework](Images/MCH_Decision_Support_Framework.png)
 
 ---
 
@@ -107,7 +107,7 @@ Translation of county-level healthcare indicators into actionable public health 
 
 Identification of high-risk counties and mortality drivers through comparative healthcare performance analysis.
 
-[Under-5 Mortality Risk Analysis](Images/Under-5_Mortality_Risk_Analytics.png)
+![Under-5 Mortality Risk Analysis](Images/Under-5_Mortality_Risk_Analytics.png)
 
 ---
 
