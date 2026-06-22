@@ -1,18 +1,22 @@
-# Maternal & Child Health (MCH) County Analytics Dashboard
+# Maternal & Child Health (MCH) County Analytics Pipeline
 
 ## Clinical Triage of Service Gaps Across Kenya's 47 Counties
 
-This project is a healthcare analytics solution designed to monitor Maternal & Child Health (MCH) indicators across Kenya using **Power BI, SQL, and Python**.
+This project is a healthcare analytics solution designed to monitor Maternal & Child Health (MCH) indicators across Kenya using Power BI, SQL, MySQL, and Python.
 
-The dashboard transforms raw clinical datasets into executive-level insights for hospitals, NGOs, public health programs, and healthcare decision-makers.
+The solution transforms county-level healthcare data into reporting-ready insights that support public health monitoring, risk identification, resource allocation, and evidence-based decision-making.
 
 ---
 
-# Executive Summary
+# Executive Summary & Analytics Pipeline
 
-*Primary clinical findings and healthcare system overview.*
+End-to-end healthcare analytics workflow supporting Maternal & Child Health performance monitoring and decision support.
 
-![Executive Summary](Images/MCH_Executive_Dashboard_Summary.png)
+[MCH Analytics Pipeline](Images/MCH_SQL_Analytics_Pipeline.png)
+
+This project transforms county-level Maternal & Child Health (MCH) data into a structured healthcare analytics workflow designed to support monitoring, risk identification, and evidence-based decision-making.
+
+The solution combines SQL data modeling, healthcare KPI views, risk segmentation logic, and Power BI dashboards to deliver reporting-ready insights for public health stakeholders.
 
 ---
 
@@ -21,6 +25,7 @@ The dashboard transforms raw clinical datasets into executive-level insights for
 Maternal and child health outcomes are often affected by delayed identification of service delivery gaps and regional healthcare disparities. Public health teams require clear, data-driven tools to monitor mortality trends, evaluate maternal healthcare coverage, and prioritize high-risk counties for intervention.
 
 Traditional spreadsheet reporting makes it difficult to rapidly identify:
+
 - Counties with elevated under-5 mortality rates
 - Gaps between facility delivery and postnatal care utilization
 - Regional inequalities in healthcare service coverage
@@ -32,7 +37,8 @@ This project addresses these challenges through interactive healthcare analytics
 
 # Solution Overview
 
-A multi-page Power BI healthcare analytics dashboard was developed to:
+An end-to-end healthcare analytics pipeline was developed to:
+
 - Monitor Maternal & Child Health indicators at county level
 - Visualize mortality and healthcare service trends
 - Stratify counties by healthcare risk level
@@ -40,36 +46,68 @@ A multi-page Power BI healthcare analytics dashboard was developed to:
 - Transform structured healthcare data into actionable clinical insights
 
 The workflow included:
-- SQL-based data extraction
+
+- SQL-based data modeling and transformation
 - Python (Pandas) data cleaning and preprocessing
-- Power BI dashboard development with DAX calculations
+- Healthcare KPI and risk segmentation view development
+- Power BI dashboard development and reporting
 - Executive healthcare reporting using Canva
 
 ---
 
-# Dashboard Pages
+# Analytics Pipeline Architecture
 
-## 1. National MCH Triage Dashboard
+The project follows a structured healthcare analytics workflow:
 
-*National-level mortality and service coverage analysis across Kenyan counties.*
+Raw County Health Data
 
-![National MCH Triage](Images/Page1_National_MCH_Triage.jpeg)
+↓
+
+SQL Data Modeling
+
+↓
+
+Healthcare KPI Views
+
+↓
+
+Risk Segmentation Logic
+
+↓
+
+Power BI Dashboards
+
+↓
+
+Healthcare Decision Support
+
+This architecture improves consistency, simplifies reporting, and supports rapid identification of priority intervention areas.
 
 ---
 
-## 2. Risk Segmentation Analysis
+# Analytics Pipeline Showcase
 
-*County-level comparison of mortality burden versus maternal healthcare performance indicators.*
+# SQL Architecture & Data Lineage
 
-![Risk Segmentation](Images/Page2_Risk_Segmentation_Analysis.jpeg)
+Healthcare KPI view creation, risk segmentation logic, and reporting-ready SQL transformation workflow.
+
+[SQL Architecture](Images/MCH_SQL_Architecture.png)
 
 ---
 
-## 3. Postnatal Care Gap Diagnostic
+# Executive Decision Support Framework
 
-*Focused analysis of postnatal care coverage gaps within the first 48 hours after delivery.*
+Translation of county-level healthcare indicators into actionable public health insights.
 
-![Postnatal Care Gap](Images/Page3_Postnatal_Care_Gap_Diagnostic.jpeg)
+[Decision Support Framework](Images/MCH_Decision_Support_Framework.png)
+
+---
+
+# Under-5 Mortality Risk Analysis
+
+Identification of high-risk counties and mortality drivers through comparative healthcare performance analysis.
+
+[Under-5 Mortality Risk Analysis](Images/Under-5_Mortality_Risk_Analytics.png)
 
 ---
 
@@ -85,53 +123,64 @@ The workflow included:
 
 # Key Clinical Insights
 
-| Indicator | Finding |
-|---|---|
-| **Facility Delivery Coverage** | Average Facility Delivery Rate: **69.74%** |
-| **ANC 4+ Coverage** | Average ANC Coverage: **59.94%** |
-| **Postnatal Care Coverage** | Average PNC within 48 Hours: **57.45%** |
-| **Under-5 Mortality** | Average Rate: **55.34 per 1,000** |
+Indicator| Finding
+Facility Delivery Coverage| Average Facility Delivery Rate: 69.74%
+ANC 4+ Coverage| Average ANC Coverage: 59.94%
+Postnatal Care Coverage| Average PNC within 48 Hours: 57.45%
+Under-5 Mortality| Average Rate: 55.34 per 1,000
+
+# Key Findings
+
+- Counties with higher Skilled Birth Attendance generally demonstrate lower Under-5 Mortality rates.
+- Postnatal Care remains a critical gap within the maternal care continuum.
+- Significant county-level variation exists in healthcare service coverage and outcomes.
+- Risk segmentation supports targeted resource allocation and performance monitoring.
+- County benchmarking enables rapid identification of priority intervention areas.
 
 ---
 
 # Dashboard Features
 
-- Multi-page interactive Power BI dashboard
+- End-to-end healthcare analytics pipeline
+- SQL data modeling and healthcare KPI views
 - County-level healthcare risk analysis
-- KPI cards and executive healthcare summaries
-- Comparative maternal health service analysis
-- Risk segmentation and trend monitoring
-- Interactive slicers and filtering functionality
+- Executive healthcare reporting and decision support
+- Risk segmentation and intervention prioritization
+- Interactive Power BI dashboards and filtering capabilities
 
 ---
 
 # Technical Workflow
 
-## Data Preparation
-- SQL data extraction
-- Python (Pandas, NumPy) preprocessing
-- Dataset transformation and validation
+## Data Preparation & Transformation
+- Data validation and preprocessing using Python (Pandas)
+- Healthcare indicator standardization
+- SQL transformation and KPI development
+- Risk segmentation logic creation
 
 ## Dashboard Development
-- Power BI dashboard modeling
-- DAX calculations and KPI creation
-- Interactive healthcare visualizations
+
+- Power BI data modeling
+- KPI and performance monitoring development
+- County-level healthcare risk visualization
+- Interactive filtering and drill-down analysis
 
 ## Executive Reporting
-- Canva executive summary design
+
+- Canva executive showcase development
 - GitHub project documentation
+- Portfolio-ready healthcare analytics reporting
 
 ---
 
 # Technical Stack
 
-| Category | Tools Used |
-| :--- | :--- |
-| **Data Cleaning** | Python (Pandas, NumPy) |
-| **Database** | SQL |
-| **Visualization** | Power BI |
-| **Executive Reporting** | Canva |
-| **Version Control** | GitHub |
+Category| Tools Used
+Data Cleaning| Python (Pandas, NumPy)
+Database| SQL, MySQL
+Visualization| Power BI
+Executive Reporting| Canva
+Version Control| GitHub
 
 ---
 
@@ -156,18 +205,20 @@ The workflow included:
 
 # Project Status
 
-Completed as a professional healthcare analytics portfolio project focused on:
+Completed as an end-to-end healthcare analytics portfolio project demonstrating:
 - Clinical KPI reporting
 - Public health analytics
 - Maternal health monitoring
+- SQL data modeling and reporting views
+- Healthcare decision-support analytics
 - Executive dashboard visualization
 
 ---
 
 # Author
 
-## **Brian Mtepe**
-**KRCHN Registered Nurse | Health Data Analyst**
+## *Brian Mtepe*
+*KRCHN Registered Nurse | Health Data Analyst*
 
 ### Specializations
 - Healthcare Analytics
