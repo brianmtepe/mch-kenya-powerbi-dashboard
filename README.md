@@ -2,7 +2,7 @@
 
 ## Clinical Triage of Service Gaps Across Kenya's 47 Counties
 
-This project is a healthcare analytics solution designed to monitor Maternal & Child Health (MCH) indicators across Kenya using Power BI, SQL, MySQL, and Python.
+This project is a healthcare analytics solution designed to monitor Maternal & Child Health (MCH) indicators across Kenya using MySQL, Python(pandas) and PowerBI.
 
 The solution transforms county-level healthcare data into reporting-ready insights that support public health monitoring, risk identification, resource allocation, and evidence-based decision-making.
 
